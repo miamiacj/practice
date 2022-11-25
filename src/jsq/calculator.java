@@ -4,7 +4,7 @@ package jsq;
 
 import java.util.Scanner;
 
-public class A0 {
+public class calculator {
     public float jia(float a,float b){return a+b;}
     public float jian(float a,float b){return a-b;}
     public float cheng(float a,float b){return a*b;}
