@@ -1,3 +1,5 @@
+/*简易的计算器，只有加减乘除。
+*/
 package jsq;
 
 import java.util.Scanner;
